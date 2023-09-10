@@ -2,10 +2,10 @@
 #include <Python.h>
 
 /**
- * print_python_list_info - Print info about a python list,
- * @p: PyObject//
+ * print_python_list_info - prints info about a python list
+ * @p: PyObject
  * 
- *Return: Void. 
+ *Return: void 
  */
 
 void print_python_list_info(PyObject *p)
